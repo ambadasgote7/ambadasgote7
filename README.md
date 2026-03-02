@@ -1,38 +1,21 @@
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  AMBADAS GOTE — GITHUB PROFILE README — ULTIMATE EDITION          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,12,19,21,24&height=240&section=header&text=AMBADAS%20GOTE&fontSize=72&fontColor=00D4FF&animation=fadeIn&fontAlignY=42&desc=◈%20Full%20Stack%20Engineer%20◈%20MERN%20Stack%20◈%20System%20Architect%20◈%20Builder%20of%20Real%20Products&descSize=14&descAlignY=65&descColor=FF6B00&stroke=00D4FF&strokeWidth=2"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,12,19,21,24&height=240&section=header&text=AMBADAS%20GOTE&fontSize=70&fontColor=00CFFF&animation=fadeIn&fontAlignY=42&desc=◆%20Full%20Stack%20Engineer%20%20◆%20System%20Builder%20%20◆%20Startup%20Thinker%20◆&descSize=13&descAlignY=64&descColor=FF7B00&stroke=00CFFF&strokeWidth=2"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2800&pause=900&color=00CFFF&center=true&vCenter=true&multiline=false&width=680&lines=⟩+BOOT+SEQUENCE+COMPLETE+—+DEVELOPER+NODE+ONLINE;⟩+MERN+INTERN+%40+FOURISE+SOFTWARE+SOLUTIONS+%5BACTIVE%5D;⟩+BUILDING+InternStatus+—+Internship+OS+for+Colleges;⟩+FOCUSED+ON%3A+Backend+Architecture+·+System+Design;⟩+MISSION%3A+Ship+systems+that+scale+·+solve+real+problems"/>
-
-<br/>
-
-<a href="https://linkedin.com/in/ambadasgote">
-  <img src="https://img.shields.io/badge/─%20LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00CFFF&labelColor=0A0A0F"/>
-</a>
-<a href="https://github.com/ambadasgote7">
-  <img src="https://img.shields.io/badge/─%20GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=00CFFF&labelColor=0A0A0F"/>
-</a>
-<a href="mailto:ambadasgote7@gmail.com">
-  <img src="https://img.shields.io/badge/─%20Contact-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF7B00&labelColor=0A0A0F"/>
-</a>
-<a href="https://leetcode.com/u/Ambadas_gote_7">
-  <img src="https://img.shields.io/badge/─%20LeetCode-0A0A0F?style=for-the-badge&logo=leetcode&logoColor=FF7B00&labelColor=0A0A0F"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=▸+SYSTEM+BOOT...+MERN+MODULES+LOADED+%5BOK%5D;▸+INTERNSTATUS+v1.0+—+COMPILING+%5BIN+PROGRESS%5D;▸+FOURISE+NETWORK+UPLINK...+%5BCONNECTED%5D;▸+BACKEND+ARCHITECTURE+MODULE...+%5BACTIVE%5D;▸+MISSION%3A+BUILD+SYSTEMS+THAT+SCALE+%5BEXECUTING%5D" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ambadasgote7&style=flat-square&color=00CFFF&label=▸+PROFILE+NODES+ACCESSED&labelColor=0A0A0F"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/ambadasgote7?style=flat-square&color=FF7B00&label=▸+FOLLOWERS&labelColor=0A0A0F"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/ambadasgote)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/ambadasgote7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FF6B00)](https://leetcode.com/u/Ambadas_gote_7)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00)](mailto:ambadasgote7@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ambadasgote7&label=PROFILE+VIEWS&color=00D4FF&style=flat-square&labelColor=000000)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/ambadasgote7?label=FOLLOWERS&style=flat-square&color=FF6B00&labelColor=000000&logo=github&logoColor=FF6B00)](https://github.com/ambadasgote7)
 
 </div>
 
@@ -40,408 +23,291 @@
 
 ---
 
-<br/>
+## ◈ WHO AM I
 
-## <img src="https://img.shields.io/badge/01─-SYSTEM_BOOT-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=00CFFF"/> &nbsp;WHO AM I
-
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
-# ┌─────────────────────────────────────────┐
-# │  IDENTITY :: AMBADAS GOTE               │
-# └─────────────────────────────────────────┘
+identity:
+  name        : Ambadas Gote
+  role        : MERN Stack Engineer
+  company     : Fourise Software Solutions  [INTERN → ACTIVE]
+  location    : India
 
-name        : "Ambadas Gote"
-role        : "Full Stack Engineer (MERN)"
-stationed   : "Fourise Software Solutions [Intern]"
-mission     : "Build systems that scale & actually ship"
+mindset:
+  approach    : Systems-first, product-obsessed
+  philosophy  : "Design the schema before writing a route."
+  style       : Backend-heavy, full-stack capable
 
-focus_areas:
-  - Backend Engineering & API Architecture
-  - System Design & Scalable Data Modeling
-  - Multi-role Platform Engineering
-  - DevOps Fundamentals (learning)
+currently:
+  building    : InternStatus — Internship Management OS
+  learning    : System Design · DevOps · Scalable Architecture
+  grinding    : LeetCode DSA every day
 
-currently_building:
-  name    : InternStatus
-  type    : Multi-stakeholder SaaS Platform
-  target  : Every engineering college in India
-  status  : "ACTIVE BUILD — heading to v1"
-
-ask_me_about:
-  - MERN Stack · REST APIs · MongoDB
-  - JWT Authentication · Role-Based Access
-  - Backend Architecture · Schema Design
-
-fun_fact: "My commit messages tell a complete story."
+signal:
+  open_to     : MERN collaborations · SaaS projects
+  contact     : ambadasgote7@gmail.com
+  response    : < 24 hours
 ```
 
-</td>
-<td width="42%" valign="top">
-
-<br/>
-
-```
-┌──────────────────────────────────────┐
-│  LIVE METRICS                        │
-├──────────────────────────────────────┤
-│                                      │
-│  STACK     ██████████████  MERN      │
-│  BACKEND   █████████████░  ★★★★☆    │
-│  FRONTEND  ████████████░░  ★★★★☆    │
-│  SYS DSGN  ████████░░░░░░  ★★★☆☆    │
-│  DEVOPS    ████░░░░░░░░░░  ★★☆☆☆    │
-│                                      │
-├──────────────────────────────────────┤
-│  STATUS    [●] BUILDING              │
-│  COLLAB    [●] OPEN                  │
-│  HIRE      [●] AVAILABLE             │
-└──────────────────────────────────────┘
-```
-
-<br/>
-
-> *"Most developers build features.*
-> *I build systems — then features.*
-> *The order matters."*
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br clear="right"/>
 
 ---
 
-<br/>
-
-## <img src="https://img.shields.io/badge/02─-FLAGSHIP_SYSTEM-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=FF7B00"/> &nbsp;INTERNSTATUS — THE PRODUCT I'M BETTING ON
+## ◈ TECHNOLOGY MATRIX
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║    ██╗███╗  ██╗████████╗███████╗██████╗ ███╗  ██╗███████╗████████╗ █████╗   ║
-║    ██║████╗ ██║╚══██╔══╝██╔════╝██╔══██╗████╗ ██║██╔════╝╚══██╔══╝██╔══██╗  ║
-║    ██║██╔██╗██║   ██║   █████╗  ██████╔╝██╔██╗██║███████╗   ██║   ███████║  ║
-║    ██║██║╚████║   ██║   ██╔══╝  ██╔══██╗██║╚████║╚════██║   ██║   ██╔══██║  ║
-║    ██║██║ ╚███║   ██║   ███████╗██║  ██║██║ ╚███║███████║   ██║   ██║  ██║  ║
-║    ╚═╝╚═╝  ╚══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝  ║
-║                                                                              ║
-║              THE INTERNSHIP OPERATING SYSTEM FOR COLLEGES                    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+**[ CORE LANGUAGES ]**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF6B00)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**[ BACKEND ENGINE ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=00D4FF)
+![JWT](https://img.shields.io/badge/JWT_Auth-000?style=for-the-badge&logo=jsonwebtokens&logoColor=FF6B00)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+**[ FRONTEND LAYER ]**
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**[ DATA & CLOUD ]**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+**[ TOOLCHAIN ]**
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=CB3837)
 
 </div>
 
-<table>
-<tr>
-<td width="52%" valign="top">
+---
 
-### 🔴 The Problem
-
-> Thousands of students chase internships every semester while colleges drown in **WhatsApp groups**, **Excel sheets**, and **email chains**. Companies lose candidates. Students miss deadlines. Faculty have zero real-time visibility.
->
-> **Nobody has built a proper system for this. Until now.**
-
-### 🟢 The Solution
-
-One unified platform. Four distinct role surfaces. One backend that owns the entire lifecycle — from company posting to student placement.
-
-</td>
-<td width="48%" valign="top">
+## ◈ SKILL PROFICIENCY
 
 ```
-PLATFORM ARCHITECTURE v1.0
-══════════════════════════════════════
-  ROLE          CAPABILITIES
-──────────────────────────────────────
-  👨‍🎓 Student  → Apply · Track · Docs
-  👩‍🏫 Faculty  → Review · Approve · Monitor
-  🏢 Company  → Post · Shortlist · Hire
-  🛡️  Admin   → Oversee · Audit · Control
-══════════════════════════════════════
-  SECURITY   → JWT + Role-Based Access
-  BACKEND    → Node.js + Express APIs
-  DATABASE   → MongoDB (schema-first)
-  TRIGGERS   → Auto status + notifs
-  DASHBOARDS → Per-role data views
-══════════════════════════════════════
-  BUILD PROGRESS
-  ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  55% → v1
-══════════════════════════════════════
+  JavaScript / Node.js    ████████████████████░   92%  ▸ PRIMARY
+  React / Redux           ███████████████████░░   88%  ▸ STRONG
+  MongoDB / Mongoose      ██████████████████░░░   85%  ▸ STRONG
+  Express.js / REST APIs  ██████████████████░░░   85%  ▸ STRONG
+  JWT / Auth Systems      █████████████████░░░░   80%  ▸ SOLID
+  Firebase                ███████████████░░░░░░   72%  ▸ SOLID
+  System Design           ████████████░░░░░░░░░   60%  ▸ LEARNING
+  Java                    ████████████░░░░░░░░░   58%  ▸ LEARNING
+  DevOps / Docker         ████████░░░░░░░░░░░░░   38%  ▸ RAMPING
 ```
 
-</td>
-</tr>
-</table>
+---
+
+## ◈ PROJECT MATRIX
+
+<br/>
 
 <div align="center">
-
-[![View InternStatus](https://img.shields.io/badge/◆_VIEW_REPOSITORY-0A0A0F?style=for-the-badge&logo=github&logoColor=00CFFF&labelColor=0A0A0F)](https://github.com/ambadasgote7/InternStatus)
-&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/◆_ACTIVE_DEVELOPMENT-FF7B00?style=for-the-badge&labelColor=0A0A0F&color=FF7B00)
-&nbsp;&nbsp;
-![Stack](https://img.shields.io/badge/◆_MERN_STACK-00CFFF?style=for-the-badge&labelColor=0A0A0F&color=00CFFF)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://img.shields.io/badge/03─-DEPLOYED_SYSTEMS-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=00CFFF"/> &nbsp;OTHER SHIPPED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💘 &nbsp;DevTinder
-**Swipe right on your next co-founder.**
-
-A Tinder-style platform for developers to discover collaborators based on skills, interests, and project goals. Full MERN, real authentication, production-deployed.
-
-```
-┌───────────────────────────────────┐
-│  STACK     Full MERN              │
-│  AUTH      JWT + session control  │
-│  CORE      Swipe discovery engine │
-│  HOST      Render  [● LIVE]       │
-│  STATUS    ████████████  SHIPPED  │
-└───────────────────────────────────┘
-```
-
-[![Source](https://img.shields.io/badge/◆_Source_Code-0A0A0F?style=flat-square&logo=github&logoColor=00CFFF)](https://github.com/ambadasgote7/DevTinder-Project)
-&nbsp;
-[![Live](https://img.shields.io/badge/◆_Live_Demo-0A0A0F?style=flat-square&logo=render&logoColor=00FF88)](https://devtinder-project-zz35.onrender.com/login)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 &nbsp;TravelMate
-**Your guide, found in real time.**
-
-Role-based platform connecting travellers with local guides via real-time matching and live dashboards. Shipped end-to-end on Firebase with WebSocket-powered discovery.
-
-```
-┌───────────────────────────────────┐
-│  STACK     Firebase + WebSockets  │
-│  ROLES     Guide · Traveller      │
-│  CORE      Live matching engine   │
-│  HOST      Firebase  [● LIVE]     │
-│  STATUS    ████████████  SHIPPED  │
-└───────────────────────────────────┘
-```
-
-[![Source](https://img.shields.io/badge/◆_Source_Code-0A0A0F?style=flat-square&logo=github&logoColor=00CFFF)](https://github.com/ambadasgote7/TravelMate)
-&nbsp;
-[![Live](https://img.shields.io/badge/◆_Live_Demo-0A0A0F?style=flat-square&logo=firebase&logoColor=FFCA28)](https://local-guide-b8ada.web.app/)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://img.shields.io/badge/04─-TECH_STACK-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=FF7B00"/> &nbsp;WEAPONS OF CHOICE
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**⚡ Language**
-<br/><br/>
-![JS](https://img.shields.io/badge/JavaScript-0A0A0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<br/>
-![Java](https://img.shields.io/badge/Java-0A0A0F?style=for-the-badge&logo=openjdk&logoColor=FF7B00)
-
-</td>
-<td align="center" width="30%">
-
-**🖥️ Backend**
-<br/><br/>
-![Node](https://img.shields.io/badge/Node.js-0A0A0F?style=for-the-badge&logo=nodedotjs&logoColor=00CFFF)
-![Express](https://img.shields.io/badge/Express-0A0A0F?style=for-the-badge&logo=express&logoColor=FF7B00)
-<br/>
-![JWT](https://img.shields.io/badge/JWT-0A0A0F?style=for-the-badge&logo=jsonwebtokens&logoColor=00CFFF)
-![REST](https://img.shields.io/badge/REST_API-0A0A0F?style=for-the-badge&logo=postman&logoColor=FF7B00)
-
-</td>
-<td align="center" width="30%">
-
-**🎨 Frontend**
-<br/><br/>
-![React](https://img.shields.io/badge/React-0A0A0F?style=for-the-badge&logo=react&logoColor=00CFFF)
-![Redux](https://img.shields.io/badge/Redux-0A0A0F?style=for-the-badge&logo=redux&logoColor=FF7B00)
-<br/>
-![Tailwind](https://img.shields.io/badge/Tailwind-0A0A0F?style=for-the-badge&logo=tailwindcss&logoColor=00CFFF)
-![HTML5](https://img.shields.io/badge/HTML5-0A0A0F?style=for-the-badge&logo=html5&logoColor=FF7B00)
-
-</td>
-<td align="center" width="20%">
-
-**🗄️ Data**
-<br/><br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0F?style=for-the-badge&logo=mongodb&logoColor=00CFFF)
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=FF7B00)
-<br/>
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0F?style=for-the-badge&logo=firebase&logoColor=00CFFF)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://img.shields.io/badge/05─-ENGINEERING_OS-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=00CFFF"/> &nbsp;HOW I THINK
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  ENGINEERING PHILOSOPHY :: CORE AXIOMS                                      │
-├─────────────────────────────────────────────────────────────────────────────┤
+│  [SYS — 01]   I N T E R N S T A T U S   ◈   ACTIVE BUILD                  │
+│  ─────────────────────────────────────────────────────────────────────────  │
 │                                                                             │
-│  [AX-01]  SCHEMA BEFORE CODE                                                │
-│           Bad data models cause more damage than bad logic.                  │
-│           Design relationships before writing a single route.                │
+│  "The internship OS that colleges actually need."                           │
 │                                                                             │
-│  [AX-02]  DESIGN FOR THE ROLE, NOT THE ENDPOINT                             │
-│           4 user types = 1 system + 4 permission layers. Not 4 apps.        │
+│  PROBLEM → Colleges manage internships via WhatsApp & Excel.                │
+│            Students miss deadlines. Faculty have zero visibility.           │
+│            Companies lose candidates. Everyone loses time.                  │
 │                                                                             │
-│  [AX-03]  AUTOMATION IS THE PRODUCT                                         │
-│           If a user updates a status the system already knows — you failed.  │
+│  SOLUTION → One unified platform. Four role surfaces. Full lifecycle.       │
 │                                                                             │
-│  [AX-04]  SHIP UGLY. REFINE FAST.                                           │
-│           A deployed v0 teaches more than a perfect v0 that never ships.    │
+│  ┌──────────────┬──────────────────────────────────────────────────────┐   │
+│  │  ROLE        │  CAPABILITIES                                        │   │
+│  ├──────────────┼──────────────────────────────────────────────────────┤   │
+│  │  👨‍🎓 Student  │  Apply · Track status · Upload documents             │   │
+│  │  👩‍🏫 Faculty  │  Review · Approve · Monitor student progress         │   │
+│  │  🏢 Company  │  Post positions · Shortlist · Schedule interviews    │   │
+│  │  🛡️  Admin   │  Full oversight · Analytics · System configuration   │   │
+│  └──────────────┴──────────────────────────────────────────────────────┘   │
 │                                                                             │
-│  [AX-05]  ERRORS ARE DOCUMENTATION                                          │
-│           Stack traces are specs. Ignoring them is malpractice.             │
+│  SECURITY   →  JWT + Role-Based Access Control (zero cross-role leaks)     │
+│  AUTOMATION →  Status pipelines · Email notifications · Audit trails       │
+│  DATABASE   →  MongoDB with schemas designed for multi-role queries        │
+│  STACK      →  Node.js · Express · React · MongoDB (Full MERN)             │
 │                                                                             │
+│  BUILD PROGRESS  ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░  42%  →  v1 TARGET: Q2 2025  │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
----
-
-<br/>
-
-## <img src="https://img.shields.io/badge/06─-TELEMETRY-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=FF7B00"/> &nbsp;GITHUB DIAGNOSTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ambadasgote7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00CFFF&icon_color=FF7B00&text_color=CBD5E1&bg_color=0A0A0F&ring_color=00CFFF&border_color=00CFFF"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadasgote7&layout=compact&theme=transparent&hide_border=true&title_color=FF7B00&text_color=CBD5E1&bg_color=0A0A0F&border_color=FF7B00"/>
-
-<br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=ambadasgote7&theme=transparent&hide_border=true&background=0A0A0F&stroke=00CFFF&ring=00CFFF&fire=FF7B00&currStreakLabel=00CFFF&sideLabels=CBD5E1&dates=64748B&sideNums=FF7B00&currStreakNum=00CFFF"/>
-
-<br/>
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=ambadasgote7&theme=react-dark&hide_border=true&bg_color=0A0A0F&color=00CFFF&line=FF7B00&point=00CFFF&area=true&area_color=00CFFF"/>
+[![InternStatus Repo](https://img.shields.io/badge/◈_VIEW_SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/ambadasgote7/InternStatus)
+&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/◈_ACTIVE_BUILD-FF6B00?style=for-the-badge)
 
 </div>
 
 <br/>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```
+┌────────────────────────────────────────┐
+│  [SYS — 02]   D E V T I N D E R       │
+│  ─────────────────────────────────── │
+│  Swipe right on your next co-founder. │
+│                                       │
+│  The fastest way for developers to    │
+│  discover collaborators who match     │
+│  their stack, vibe, and goals.        │
+│                                       │
+│  ◈ Swipe-based discovery engine       │
+│  ◈ JWT auth + session management      │
+│  ◈ MongoDB optimized for match logic  │
+│  ◈ Full MERN stack                    │
+│  ◈ Deployed live on Render            │
+│                                       │
+│  STATUS  ████████████████████  LIVE   │
+└────────────────────────────────────────┘
+```
+
+[![Source](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/ambadasgote7/DevTinder-Project)
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=render&logoColor=00C853)](https://devtinder-project-zz35.onrender.com/login)
+
+</td>
+<td width="50%" valign="top">
+
+```
+┌────────────────────────────────────────┐
+│  [SYS — 03]   T R A V E L M A T E    │
+│  ─────────────────────────────────── │
+│  Find your local guide. In real time. │
+│                                       │
+│  Role-based platform connecting       │
+│  travellers with verified local       │
+│  guides using live matching tech.     │
+│                                       │
+│  ◈ Real-time guide discovery          │
+│  ◈ Dual dashboards: Guide/Traveller   │
+│  ◈ Firebase + WebSocket powered       │
+│  ◈ Hosted on Firebase                 │
+│  ◈ Fully deployed and live            │
+│                                       │
+│  STATUS  ████████████████████  LIVE   │
+└────────────────────────────────────────┘
+```
+
+[![Source](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/ambadasgote7/TravelMate)
+[![Live](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://local-guide-b8ada.web.app/)
+
+</td>
+</tr>
+</table>
+
 ---
 
-<br/>
+## ◈ ENGINEERING PHILOSOPHY
 
-## <img src="https://img.shields.io/badge/07─-ACTIVE_PROCESSES-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=00CFFF"/> &nbsp;WHAT I'M RUNNING RIGHT NOW
+```
+  ╔═══╗  RULE 01 — DATA MODEL FIRST
+  ║ 1 ║  Bad schemas cause more damage than bad code.
+  ╚═══╝  Design the relationships before writing a single route.
+
+  ╔═══╗  RULE 02 — BUILD FOR THE ROLE, NOT THE ENDPOINT
+  ║ 2 ║  A platform with 4 user types isn't 4 apps.
+  ╚═══╝  It's one system with 4 permission layers. Architect accordingly.
+
+  ╔═══╗  RULE 03 — AUTOMATION IS THE PRODUCT
+  ║ 3 ║  If a user manually updates a status the system already knows —
+  ╚═══╝  the system has failed them. Build the trigger, not the button.
+
+  ╔═══╗  RULE 04 — SHIP UGLY, THEN REFINE
+  ║ 4 ║  A deployed v0 teaches more than a perfect v0 that never ships.
+  ╚═══╝  Working > perfect. Always.
+
+  ╔═══╗  RULE 05 — READ ALL THE ERRORS
+  ║ 5 ║  Stack traces are documentation. Error messages are specs.
+  ╚═══╝  Skipping them is engineering malpractice.
+```
+
+---
+
+## ◈ GITHUB TELEMETRY
 
 <div align="center">
 
-```
-$ ps aux --sort=priority | grep ambadas
-
-PID   PROCESS                                   CPU    STATUS
-───────────────────────────────────────────────────────────────────
-001   internstatus_v1_launch_sequence           ████   [EXECUTING]
-002   system_design_first_principles            ███░   [DAILY]
-003   leetcode_dsa_neural_training              ████   [ONGOING]
-004   docker_cicd_upskill_module                █░░░   [BOOTING]
-005   open_source_contribution_scan             ██░░   [SCANNING]
-006   mern_saas_collaboration_listener          ████   [LISTENING]
-
-$ _
-```
-
-| 🔴 &nbsp; | Shipping **InternStatus v1** to production | `EXECUTING` |
-|:---:|:---|:---:|
-| 🟡 &nbsp; | **System Design** — learning from first principles | `DAILY` |
-| 🟢 &nbsp; | **LeetCode** DSA grind for the long game | `ONGOING` |
-| 🔵 &nbsp; | **Docker + CI/CD** fundamentals | `BOOTING` |
-| ⚪ &nbsp; | Open to **MERN / SaaS collaboration** | `ALWAYS ON` |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://img.shields.io/badge/08─-OPEN_CHANNEL-0A0A0F?style=for-the-badge&labelColor=0A0A0F&color=FF7B00"/> &nbsp;LET'S CONNECT
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   If you're building something ambitious that needs an engineer who          ║
-║   thinks in systems, designs for scale, and actually ships — let's talk.    ║
-║                                                                              ║
-║   ◆  ambadasgote7@gmail.com          ◆  linkedin.com/in/ambadasgote          ║
-║   ◆  github.com/ambadasgote7         ◆  leetcode.com/u/Ambadas_gote_7        ║
-║                                                                              ║
-║                 ─── DMs OPEN · COLLAB OPEN · HIRE OPEN ───                  ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<a href="https://linkedin.com/in/ambadasgote">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00CFFF"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ambadasgote7@gmail.com">
-<img src="https://img.shields.io/badge/Send%20a%20Message-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF7B00"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ambadasgote7">
-<img src="https://img.shields.io/badge/Follow%20on%20GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=00CFFF"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ambadasgote7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=FF6B00&text_color=C9D1D9&bg_color=00000000&ring_color=00D4FF&custom_title=◈+COMMIT+TELEMETRY"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadasgote7&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=00000000&custom_title=◈+LANGUAGE+MATRIX"/>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20systems%20that%20scale.%20Ship%20code%20that%20matters.&author=Ambadas%20Gote"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,12,19,21,24&height=140&section=footer&stroke=00CFFF&strokeWidth=2&desc=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time&descSize=13&descColor=FF7B00&descAlignY=60"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=ambadasgote7&theme=transparent&hide_border=true&background=00000000&stroke=00D4FF&ring=00D4FF&fire=FF6B00&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=555555&sideNums=FF6B00&currStreakNum=00D4FF"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  Last updated: 2025 · github.com/ambadasgote7                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
+
+## ◈ ACTIVE PROCESSES
+
+```
+  ┌────────────────────────────────────────────────────────────────────┐
+  │  PROCESS MONITOR  ◈  as of 2025                                   │
+  ├────────────────────────────────────────────────────────────────────┤
+  │                                                                    │
+  │  [PID 001]  InternStatus v1 → launch sequence        [EXECUTING]  │
+  │  [PID 002]  System Design deep dive                  [DAILY]      │
+  │  [PID 003]  LeetCode DSA neural training             [ONGOING]    │
+  │  [PID 004]  Docker + CI/CD fundamentals              [LOADING...] │
+  │  [PID 005]  Backend scalability patterns             [STUDYING]   │
+  │  [PID 006]  Open to MERN / SaaS collaboration        [LISTENING]  │
+  │                                                                    │
+  │  UPTIME     →  365 days / year                                    │
+  │  NEXT GOAL  →  Ship InternStatus to real users                    │
+  │  DREAM JOB  →  Backend Engineer @ a product that scales           │
+  │                                                                    │
+  └────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ◈ OPEN CHANNEL
+
+<div align="center">
+
+```
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║                                                                   ║
+  ║    If you're building something ambitious that needs an           ║
+  ║    engineer who thinks in systems — open a channel.              ║
+  ║                                                                   ║
+  ║    ambadasgote7@gmail.com                                         ║
+  ║    linkedin.com/in/ambadasgote                                    ║
+  ║    github.com/ambadasgote7                                        ║
+  ║                                                                   ║
+  ║    Response time  →  < 24 hours                                  ║
+  ║    Status         →  Open to opportunities                       ║
+  ║                                                                   ║
+  ╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/ambadasgote)
+[![Email](https://img.shields.io/badge/Send_a_Message-000000?style=for-the-badge&logo=gmail&logoColor=FF6B00)](mailto:ambadasgote7@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-000000?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/ambadasgote7)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,12,19,21,24&height=140&section=footer&text=BUILDING%20THINGS%20THAT%20MATTER&fontSize=22&fontColor=00D4FF&animation=fadeIn&fontAlignY=55&stroke=00D4FF&strokeWidth=1"/>
