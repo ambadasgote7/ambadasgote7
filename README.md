@@ -1,216 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=AMBADAS%20GOTE&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=I%20don't%20write%20code.%20I%20engineer%20systems%20that%20solve%20real%20problems.&descSize=14&descAlignY=62&descColor=94A3B8&stroke=6D28D9&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF9A3C&height=240&section=header&text=Ambadas%20Gote&fontSize=52&fontColor=FF9A3C&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20MERN%20Architect%20•%20System%20Builder&descAlignY=60&descSize=18"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=🚀+Building+InternStatus+—+The+platform+colleges+actually+need;⚙️+MERN+Stack+Intern+%40+Fourise+Software+Solutions;🧠+System+Design+%7C+Backend+Architecture+%7C+Scalable+Systems;🔥+From+schema+design+to+production+deploy+—+I+own+the+stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=1000&color=FF9A3C&center=true&vCenter=true&width=750&lines=MERN+Stack+Intern+%40+Fourise+Software+Solutions;Building+InternStatus+—+Real+World+Internship+Platform;Backend+Engineering+%7C+System+Design+%7C+Scalable+Architecture;Turning+Ideas+into+Production+Systems+⚡;Open+to+Collaboration+—+Let’s+Build!" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1A)](https://linkedin.com/in/ambadasgote)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F1A)](https://github.com/ambadasgote7)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1A)](mailto:ambadasgote7@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grind-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F0F1A)](https://leetcode.com/u/Ambadas_gote_7)
-
-<img src="https://komarev.com/ghpvc/?username=ambadasgote7&style=flat-square&color=7C3AED&label=Engineers+Who+Found+This"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=ambadasgote7\&style=for-the-badge\&color=FF9A3C\&label=PROFILE+VIEWS\&labelColor=0D1117)](https://github.com/ambadasgote7)
+[![Followers](https://img.shields.io/github/followers/ambadasgote7?style=for-the-badge\&color=FF9A3C\&labelColor=0D1117\&label=FOLLOWERS)](https://github.com/ambadasgote7)
 
 </div>
 
 ---
 
-<div align="center">
+# 👨‍💻 Engineer Mindset
 
-## `> MISSION`
+I don’t just build features — I design systems.
 
-</div>
+I enjoy transforming **messy real-world problems** into **clean, scalable architectures** that can actually be deployed and used.
 
-> **Most developers build features. I build systems.**
->
-> I'm Ambadas — a MERN stack engineer and startup-minded builder obsessed with creating software that handles real workflows at real scale. Not portfolio pieces. Not tutorial clones. I'm talking about platforms with role-based access, automated pipelines, and schemas designed to survive 10x growth.
->
-> Currently shipping production features at **Fourise Software Solutions** while building **InternStatus** — a platform that solves a problem every engineering college faces but nobody has properly fixed.
+Currently focused on backend engineering, authentication systems, and multi-role platform architecture.
 
 ---
 
-<div align="center">
+# 🚀 What I'm Building
 
-## `> WHAT I'M BUILDING`
+## 🏢 InternStatus — Internship Ecosystem Platform
 
-</div>
+A full-lifecycle internship management system connecting:
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### 🏗️ InternStatus — *The Internship OS for Colleges*
-
-> *Every semester, thousands of students chase internships while colleges drown in spreadsheets. InternStatus fixes that.*
-
-This isn't a CRUD app. It's a **multi-stakeholder workflow platform** with four distinct role surfaces, all sharing one backend — built the way a real product team would architect it.
-
-```
-┌─────────────────────────────────────────────┐
-│  PLATFORM ARCHITECTURE                      │
-├─────────────────────────────────────────────┤
-│  👨‍🎓 Student     →  Apply, track, submit docs │
-│  👩‍🏫 Faculty     →  Review, approve, monitor  │
-│  🏢 Company     →  Post, shortlist, hire     │
-│  🛡️  Admin      →  Oversee the whole system  │
-├─────────────────────────────────────────────┤
-│  🔐 JWT + RBAC  →  Zero unauthorized access  │
-│  ⚡ Automations  →  Status updates, notifs   │
-│  📊 Dashboards  →  Role-specific data views  │
-│  🗄️  MongoDB    →  Schemas built to scale    │
-└─────────────────────────────────────────────┘
+```text
+Students → Faculty → Companies → Admin
 ```
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0F0F1A?style=for-the-badge&logo=github&logoColor=7C3AED)](https://github.com/ambadasgote7/InternStatus)
-&nbsp;
-![Active Build](https://img.shields.io/badge/ACTIVE_BUILD-7C3AED?style=for-the-badge)
+Core Focus:
 
-</td>
-<td width="35%" valign="top">
+* Secure JWT Authentication
+* Role-based Access Control
+* Workflow Automation
+* Scalable Backend Architecture
+* Production-ready MERN Stack
 
-### Why It Matters
-
-**The Problem:**
-Colleges manage internships via WhatsApp groups and Excel sheets. Companies lose candidates. Students miss deadlines. Faculty have zero visibility.
-
-**The Solution:**
-One platform. Four roles. Complete lifecycle management — from posting to placement.
-
-**The Ambition:**
-Make this the default tool for technical institutions managing placements and internships at scale.
+🔗 Repo: https://github.com/ambadasgote7/InternStatus
 
 ---
 
-*This is the project I'm betting on.*
+# 💼 Experience
 
-</td>
-</tr>
-</table>
+### MERN Stack Intern — Fourise Software Solutions
+
+Working on real production features including:
+
+* REST API development
+* Authentication & authorization workflows
+* React frontend integration
+* Debugging production issues
+* Feature delivery cycles
 
 ---
+
+# 🧠 Engineering Interests
+
+* Backend Architecture
+* System Design
+* Database Modeling
+* Authentication & Security
+* Performance Optimization
+* Scalable SaaS Platforms
+
+---
+
+# ⚙️ Core Tech Stack
 
 <div align="center">
 
-## `> SHIPPED PROJECTS`
+<img src="https://skillicons.dev/icons?i=js,java,nodejs,express,react,redux,tailwind,mongodb,mysql,firebase,git,postman,vscode&theme=dark"/>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 💘 DevTinder
-**Swipe right on your next co-founder.**
+# 📌 Featured Projects
 
-The fastest way for developers to find collaborators who match their stack, vibe, and goals. Built end-to-end on MERN with swipe mechanics and real authentication.
+## 💘 DevTinder — Developer Matching Platform
 
-```
-Stack   →  MongoDB · Express · React · Node
-Auth    →  JWT-based, session-aware
-Core    →  Swipe discovery engine
-Deploy  →  Live on Render
-```
+Tinder-style platform for developers to find collaborators.
 
-[![Source](https://img.shields.io/badge/Source-0F0F1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambadasgote7/DevTinder-Project)
-[![Live](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge)](https://devtinder-project-zz35.onrender.com/login)
+* JWT Authentication
+* Optimized MongoDB Queries
+* Full MERN Architecture
 
-</td>
-<td width="50%" valign="top">
+🔗 Repo:
+https://github.com/ambadasgote7/DevTinder-Project
 
-### 🌍 TravelMate
-**Your guide, in real time.**
-
-Role-based platform connecting travellers with local guides using real-time matching. Shipped on Firebase with WebSocket-powered live discovery.
-
-```
-Stack   →  Firebase · WebSockets · JS
-Roles   →  Guide dashboard · Traveller view
-Core    →  Live guide matching engine
-Deploy  →  Firebase Hosting
-```
-
-[![Source](https://img.shields.io/badge/Source-0F0F1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambadasgote7/TravelMate)
-[![Live](https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge)](https://local-guide-b8ada.web.app/)
-
-</td>
-</tr>
-</table>
+🚀 Live:
+https://devtinder-project-zz35.onrender.com/login
 
 ---
 
-<div align="center">
+## 🌍 TravelMate — Real-time Guide Matching
 
-## `> ENGINEERING PHILOSOPHY`
+Platform connecting travellers with guides in real time.
 
-</div>
+* Role-based dashboards
+* Firebase backend
+* Real-time sync
 
-```
-01  DESIGN THE DATA MODEL FIRST.
-    Bad schemas cause more damage than bad code.
-    Get the relationships right before writing a single route.
+🔗 Repo:
+https://github.com/ambadasgote7/TravelMate
 
-02  BUILD FOR THE ROLE, NOT THE ENDPOINT.
-    A platform with 4 user types isn't 4 apps — it's one system
-    with 4 permission layers. Design accordingly.
-
-03  AUTOMATION IS NOT A FEATURE — IT'S THE PRODUCT.
-    If a user has to manually update a status that the system
-    already knows, the system has failed them.
-
-04  SHIP UGLY, THEN REFINE.
-    Working > perfect. A deployed v0 teaches you more
-    than a perfectly architected v0 that never ships.
-
-05  READ THE ERRORS. ALL OF THEM.
-    Stack traces are documentation. Error messages are
-    specifications. Ignoring them is engineering malpractice.
-```
+🚀 Live:
+https://local-guide-b8ada.web.app/
 
 ---
 
+# 📊 GitHub Stats
+
 <div align="center">
 
-## `> STACK`
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ambadasgote7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9A3C&icon_color=FF9A3C&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadasgote7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9A3C&text_color=FFFFFF"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ambadasgote7&theme=dark&hide_border=true&background=0D1117&stroke=FF9A3C&ring=FF9A3C&fire=FF6B35&currStreakLabel=FF9A3C&sideLabels=FFFFFF&dates=FFFFFF"/>
 
 </div>
 
 <div align="center">
 
-**Runtime & Language**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambadasgote7&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF9A3C&line=FF6B35&point=FFFFFF&area=true"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+</div>
 
-**Backend & API**
+---
 
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+# 🎯 2026 Goals
 
-**Frontend**
+* 🚀 Ship InternStatus to production
+* 📐 Master system design fundamentals
+* 🧠 Strengthen DSA & problem solving
+* ☁️ Learn DevOps & deployment pipelines
+* 💼 Land high-impact software role
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+---
 
-**Data & Cloud**
+# 📬 Connect With Me
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<div align="center">
 
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=FF9A3C)](https://linkedin.com/in/ambadasgote)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FF9A3C)](https://github.com/ambadasgote7)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge\&logo=gmail\&logoColor=FF9A3C)](mailto:ambadasgote7@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge\&logo=leetcode\&logoColor=FF9A3C)](https://leetcode.com/u/Ambadas_gote_7)
 
 </div>
 
@@ -218,53 +159,12 @@ Deploy  →  Firebase Hosting
 
 <div align="center">
 
-## `> METRICS`
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ambadasgote7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0F0F1A"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadasgote7&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0F0F1A"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ambadasgote7&theme=transparent&hide_border=true&background=0F0F1A&stroke=7C3AED&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED&sideLabels=94A3B8&dates=475569"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambadasgote7&theme=react-dark&hide_border=true&bg_color=0F0F1A&color=7C3AED&line=7C3AED&point=F97316&area=true&area_color=7C3AED"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `> CURRENTLY`
-
-| | Doing | Signal |
-|:---:|:---|:---:|
-| 🔨 | Architecting **InternStatus** v1 for launch | `Heads down` |
-| 📐 | Studying **System Design** from first principles | `Daily ritual` |
-| 🧠 | **LeetCode** — DSA for the long game | `Grinding` |
-| 🐳 | Learning **Docker + CI/CD** fundamentals | `Ramping up` |
-| 🤝 | Open to collaborate on **MERN / SaaS** products | `DMs open` |
-
-</div>
-
----
-
-<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 <br/>
 
-**If you're building something ambitious and need an engineer who thinks in systems — let's talk.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF9A3C&height=140&section=footer"/>
 
-<br/>
-
-[![Email](https://img.shields.io/badge/ambadasgote7%40gmail.com-reach_out-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1A)](mailto:ambadasgote7@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1A)](https://linkedin.com/in/ambadasgote)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&stroke=6D28D9&strokeWidth=2"/>
+⭐️ **Ambadas Gote** — building systems that matter.
 
 </div>
