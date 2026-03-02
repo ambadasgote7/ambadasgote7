@@ -128,7 +128,7 @@
 
 <div align="center">
 
-### 💬 *"Build the trigger, not the button."*
+### 💬 *"Build. Break. Learn. Repeat.."*
 
 <br/>
 
