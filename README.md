@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d62,70:00D4FF,100:FF6B00&height=220&section=header&text=%F0%9F%91%8B%20Hey%2C%20I%27m%20Ambadas%20Gote&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MERN%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Backend%20Enthusiast&descSize=14&descAlignY=62&descColor=a0cfff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,40:001a33,100:0D1117&height=180&section=header&text=%F0%9F%91%8B%20Hey%2C%20I%27m%20Ambadas%20Gote&fontSize=46&fontColor=00D4FF&animation=blinking&fontAlignY=45&desc=MERN%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Backend%20Enthusiast&descSize=14&descAlignY=70&descColor=FF6B00&stroke=00D4FF&strokeWidth=3"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=580&lines=%E2%9A%A1+Turning+ideas+into+working+software;%F0%9F%9A%80+Building+projects+that+solve+real+problems;%F0%9F%98%84+My+commits+tell+a+full+emotional+story;%F0%9F%92%BB+Code.+Learn.+Improve.+Repeat.;%F0%9F%A7%A0+Exploring+backend+and+scalable+systems;%F0%9F%8E%AE+Respawning+after+bugs+like+a+pro;%F0%9F%94%A5+From+concept+to+deployment;%F0%9F%8E%AF+Consistency+over+perfection;%F0%9F%9A%80+Always+building+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=580&lines=%E2%9A%A1+Turning+ideas+into+working+software;%F0%9F%9A%80+Building+projects+that+solve+real+problems;%F0%9F%98%84+My+commits+tell+a+full+emotional+story;%F0%9F%92%BB+Code.+Learn.+Improve.+Repeat.;%F0%9F%A7%A0+Exploring+backend+and+scalable+systems;%F0%9F%8E%AE+Respawning+after+bugs+like+a+pro;%F0%9F%94%A5+From+concept+to+deployment;%F0%9F%8E%AF+Consistency+over+perfection;%F0%9F%9A%80+Always+building+something+new)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://linkedin.com/in/ambadasgote"><img src="https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=00D4FF"/></a>
-<a href="https://github.com/ambadasgote7"><img src="https://img.shields.io/badge/GitHub-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Ambadas_gote_7"><img src="https://img.shields.io/badge/LeetCode-%230A0A0A.svg?style=for-the-badge&logo=leetcode&logoColor=FF6B00"/></a>
-<a href="mailto:ambadasgote7@gmail.com"><img src="https://img.shields.io/badge/Gmail-%230A0A0A.svg?style=for-the-badge&logo=gmail&logoColor=FF6B00"/></a>
+<a href="https://linkedin.com/in/ambadasgote"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>&nbsp;
+<a href="https://github.com/ambadasgote7"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0D1117"/></a>&nbsp;
+<a href="https://leetcode.com/u/Ambadas_gote_7"><img src="https://img.shields.io/badge/LeetCode-FF6B00?style=for-the-badge&logo=leetcode&logoColor=0D1117"/></a>&nbsp;
+<a href="mailto:ambadasgote7@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
 
 <br/><br/>
 
@@ -21,29 +21,31 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;About Me
+## ⚡ About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 <br/>
 
-> 🎓 &nbsp;<kbd>**`Computer Science Student — Graduating 2026`**</kbd>
+```
+ ╔══════════════════════════════════════════════════╗
+ ║  🎓  CS Student — Graduating 2026                ║
+ ╚══════════════════════════════════════════════════╝
+```
+
+&nbsp;&nbsp;💻 &nbsp;Passionate about **building software** & learning new technologies
+
+&nbsp;&nbsp;🚀 &nbsp;Interested in **backend development** & scalable systems
+
+&nbsp;&nbsp;🧠 &nbsp;Curious how things work **under the hood**
+
+&nbsp;&nbsp;🎮 &nbsp;Gamer — **Free Fire** & competitive games
+
+&nbsp;&nbsp;⚡ &nbsp;`Learn` **→** `Build` **→** `Improve` **→** `Repeat`
 
 &nbsp;
 
-[![](https://img.shields.io/badge/💻-Passionate%20about%20building%20software%20%26%20learning%20new%20technologies-00D4FF?style=flat-square&labelColor=0D1117)](#)
-
-[![](https://img.shields.io/badge/🚀-Interested%20in%20backend%20development%20%26%20scalable%20systems-FF6B00?style=flat-square&labelColor=0D1117)](#)
-
-[![](https://img.shields.io/badge/🧠-Curious%20how%20things%20work%20under%20the%20hood-00D4FF?style=flat-square&labelColor=0D1117)](#)
-
-[![](https://img.shields.io/badge/🎮-Gamer%20—%20Free%20Fire%20%26%20competitive%20games-FF6B00?style=flat-square&labelColor=0D1117)](#)
-
-[![](https://img.shields.io/badge/⚡-Learn%20→%20Build%20→%20Improve%20→%20Repeat-00D4FF?style=flat-square&labelColor=0D1117)](#)
-
-&nbsp;
-
-📬 &nbsp;**`ambadasgote7@gmail.com`** &nbsp;·&nbsp; Response < 24h
+> 📬 &nbsp;**ambadasgote7@gmail.com** &nbsp;·&nbsp; *Response < 24h*
 
 <br clear="right"/>
 
@@ -117,6 +119,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:00D4FF,100:0D1117&height=130&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20Let%27s%20Build%20Together&fontSize=15&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,40:001a33,100:0D1117&height=90&section=footer&text=✦%20Open%20to%20Opportunities%20—%20Let%27s%20Build%20Together%20✦&fontSize=16&fontColor=00D4FF&animation=blinking&fontAlignY=55&stroke=00D4FF&strokeWidth=2"/>
 
 </div>
