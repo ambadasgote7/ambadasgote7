@@ -20,24 +20,47 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<div align="center">
 
-<h2>🧑‍💻 <code>whoami</code></h2>
+## 👨‍💻 About Me
 
-```javascript
-const Ambadas = {
-  📍 location  : "Maharashtra, India",
-  💼 role      : "MERN Stack Intern @ Fourise Software Solutions",
-  🚀 building  : "InternStatus — Multi-role Internship Platform",
-  🌱 learning  : ["System Design", "DevOps", "Scalable Architecture"],
-  🤝 collab    : "Full-Stack MERN & SaaS Projects",
-  ⚡ superpower: "Turning complex ideas → production-ready systems",
-  🌙 funFact   : "I debug at 2AM and call it a vibe",
-  📬 contact   : "ambadasgote7@gmail.com"
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br clear="right"/>
+<img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+### 🚀 What I'm Building
+> **InternStatus** — A full-scale, multi-role internship management platform connecting Students, Faculty, Companies & Admins with secure auth and workflow automation.
+
+---
+
+### 🌱 Currently Learning
+| | |
+|---|---|
+| 🏗️ | System Design |
+| 🐳 | DevOps & Docker |
+| 📐 | Scalable Architecture |
+
+---
+
+### ⚡ Fun Facts
+- 🌙 I debug at 2AM and call it a vibe
+- 🔁 My commit messages go from `fix` → `final fix` → `ACTUAL final fix`
+- ☕ Coffee → Code → Ship → Repeat
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
