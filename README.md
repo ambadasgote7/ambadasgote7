@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ambadas%20Gote&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MERN%20Stack%20Engineer%20%E2%97%88%20System%20Architect%20%E2%97%88%20Builder&descSize=14&descAlignY=58&descColor=00D4FF"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Ambadas%20Gote&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E2%97%88%20MERN%20Stack%20Engineer%20%E2%97%88%20Backend%20Architect%20%E2%97%88%20Builder%20of%20Real%20Products%20%E2%97%88&descSize=13&descAlignY=62&descColor=00D4FF&stroke=00D4FF&strokeWidth=2"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=550&lines=%F0%9F%9A%80+Building+InternStatus+%40+Fourise;%F0%9F%94%A5+MERN+Stack+Engineer+%7C+Backend+First;%F0%9F%8E%AF+Design+the+schema.+Then+write+the+route.;%E2%9A%A1+Systems+that+scale+%7C+Code+that+ships)](https://git.io/typing-svg)
 
@@ -17,24 +17,30 @@
 
 ---
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🧠 About Me
 
-```yaml
-name     : Ambadas Gote
-role     : MERN Stack Engineer
-company  : Fourise Software Solutions
-mantra   : "Schema first. Route second. Always."
-building : InternStatus — Internship OS for colleges
-grinding : LeetCode DSA · System Design · DevOps
-status   : Open to MERN & SaaS collaborations
-```
-
-- 🔭 Currently building **InternStatus** — a 4-role internship management platform
-- 🌱 Deep diving into **System Design** & **Scalable Architecture**
+- 🔭 Building **InternStatus** — internship OS for colleges
+- 💼 MERN Stack Engineer **@ Fourise Software Solutions**
+- 🌱 Deep diving into **System Design & DevOps**
 - ⚡ Backend-heavy, full-stack capable, product-obsessed
-- 📬 Reach me: **ambadasgote7@gmail.com**
+- 🎯 Mantra: *"Design the schema before writing a route."*
+- 🤝 Open to **MERN & SaaS collaborations**
+- 📬 **ambadasgote7@gmail.com** · Response < 24h
+
+<br>
+
+```js
+const ambadas = {
+  role     : "MERN Stack Engineer",
+  company  : "Fourise Software Solutions",
+  building : "InternStatus 🚧",
+  learning : ["System Design", "DevOps", "Architecture"],
+  grinding : "LeetCode DSA — every day 🔥",
+  openTo   : ["MERN collab", "SaaS projects", "Backend roles"]
+}
+```
 
 <br clear="right"/>
 
@@ -119,10 +125,6 @@ Real-time local guide finder.<br>Firebase + WebSocket · Dual dashboards<br>for 
 
 <br>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ambadasgote7&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=FF6B00&text_color=C9D1D9&custom_title=Stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadasgote7&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=C9D1D9"/>
-
 <img width="55%" src="https://streak-stats.demolab.com?user=ambadasgote7&theme=transparent&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B00&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=556070&sideNums=FF6B00&currStreakNum=00D4FF"/>
 
 </div>
@@ -131,12 +133,12 @@ Real-time local guide finder.<br>Firebase + WebSocket · Dual dashboards<br>for 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380"/>
 
 ### 💬 *"If a user manually updates a status the system already knows — the system failed them."*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Open%20to%20Opportunities&fontSize=18&fontColor=00D4FF&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=100&section=footer&text=Open%20to%20Opportunities%20%E2%97%88%20Let's%20Build%20Together&fontSize=16&fontColor=00D4FF&animation=twinkling&fontAlignY=65"/>
 
 </div>
