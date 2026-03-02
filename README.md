@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Ambadas%20Gote&fontSize=40&fontColor=00D4FF&animation=twinkling&fontAlignY=40&desc=MERN%20Stack%20Engineer%20%7C%20Backend%20Architect%20%7C%20Builder%20of%20Real%20Products&descSize=13&descAlignY=62&descColor=ffffff&stroke=00D4FF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,19,21,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Ambadas%20Gote&fontSize=42&fontColor=00D4FF&animation=fadeIn&fontAlignY=45&desc=%E2%96%B8%20MERN%20Stack%20Engineer%20%20%E2%97%88%20%20Backend%20Architect%20%20%E2%97%88%20%20Builder%20of%20Real%20Products%20%E2%97%88&descSize=13&descAlignY=70&descColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=%F0%9F%9A%80+Currently+building+InternStatus+%40+Fourise;%F0%9F%94%A5+MERN+Stack+%7C+Backend-first+mindset;%F0%9F%8E%AF+Design+the+schema.+Then+write+the+route.;%E2%9A%A1+Systems+that+scale+%7C+Code+that+ships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=%F0%9F%9A%80+Currently+building+InternStatus+%40+Fourise;%F0%9F%94%A5+MERN+Stack+%7C+Backend-first+mindset;%F0%9F%8E%AF+Design+the+schema.+Then+write+the+route.;%E2%9A%A1+Systems+that+scale+%7C+Code+that+ships)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 💼 **MERN Stack Engineer** @ Fourise Software Solutions
 - 🔭 Building **InternStatus** — internship OS for colleges
@@ -125,6 +125,6 @@ Real-time local guide finder.<br>Firebase + WebSocket · Dual dashboards<br>for 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20Let's%20Build%20Together&fontSize=15&fontColor=00D4FF&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,19,21,24&height=80&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20Let's%20Build%20Together&fontSize=15&fontColor=00D4FF&animation=fadeIn&fontAlignY=55"/>
 
 </div>
