@@ -21,21 +21,29 @@
 
 ---
 
-## 🧠 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <br/>
 
-🎓 &nbsp;**Computer Science student** — Graduating 2026  
-💻 &nbsp;Passionate about building software & learning new tech  
-🚀 &nbsp;Into **backend development & scalable systems**  
-🔥 &nbsp;Currently building **InternStatus** @ Fourise Software Solutions  
-🧠 &nbsp;Curious how things work **under the hood**  
-🌱 &nbsp;Learning **System Design · DevOps · Cloud Architecture**  
-🎮 &nbsp;Gamer — **Free Fire** & competitive games  
-⚡ &nbsp;**Learn → Build → Improve → Repeat**  
-📬 &nbsp;`ambadasgote7@gmail.com` — Response < 24h
+> 🎓 &nbsp;<kbd>**`Computer Science Student — Graduating 2026`**</kbd>
+
+&nbsp;
+
+[![](https://img.shields.io/badge/💻-Passionate%20about%20building%20software%20%26%20learning%20new%20technologies-00D4FF?style=flat-square&labelColor=0D1117)](#)
+
+[![](https://img.shields.io/badge/🚀-Interested%20in%20backend%20development%20%26%20scalable%20systems-FF6B00?style=flat-square&labelColor=0D1117)](#)
+
+[![](https://img.shields.io/badge/🧠-Curious%20how%20things%20work%20under%20the%20hood-00D4FF?style=flat-square&labelColor=0D1117)](#)
+
+[![](https://img.shields.io/badge/🎮-Gamer%20—%20Free%20Fire%20%26%20competitive%20games-FF6B00?style=flat-square&labelColor=0D1117)](#)
+
+[![](https://img.shields.io/badge/⚡-Learn%20→%20Build%20→%20Improve%20→%20Repeat-00D4FF?style=flat-square&labelColor=0D1117)](#)
+
+&nbsp;
+
+📬 &nbsp;**`ambadasgote7@gmail.com`** &nbsp;·&nbsp; Response < 24h
 
 <br clear="right"/>
 
