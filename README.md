@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
 - 💼 **MERN Stack Engineer** @ Fourise Software Solutions
 - 🔭 Building **InternStatus** — internship OS for colleges
