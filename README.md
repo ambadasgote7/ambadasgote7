@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,30&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Ambadas%20Gote&fontSize=40&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=MERN%20Stack%20Engineer%20%7C%20Backend%20Architect%20%7C%20Builder%20of%20Real%20Products&descSize=13&descAlignY=65&descColor=00D4FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,40:0d1b2a,100:00D4FF&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Ambadas%20Gote&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Engineer%20%20%7C%20%20Backend%20Architect%20%20%7C%20%20Builder%20of%20Real%20Products&descSize=14&descAlignY=60&descColor=00D4FF"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=%F0%9F%9A%80+Currently+building+InternStatus+%40+Fourise;%F0%9F%94%A5+MERN+Stack+%7C+Backend-first+mindset;%F0%9F%8E%AF+Design+the+schema.+Then+write+the+route.;%E2%9A%A1+Systems+that+scale+%7C+Code+that+ships)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 - 💼 **MERN Stack Engineer** @ Fourise Software Solutions
 - 🔭 Building **InternStatus** — internship OS for colleges
@@ -125,6 +125,6 @@ Real-time local guide finder.<br>Firebase + WebSocket · Dual dashboards<br>for 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,8,30&height=80&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20Let's%20Build%20Together&fontSize=15&fontColor=00D4FF&animation=blinking&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,60:0d1b2a,100:050810&height=100&section=footer&text=Open%20to%20Opportunities%20%E2%80%94%20Let's%20Build%20Together&fontSize=15&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
