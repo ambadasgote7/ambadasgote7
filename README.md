@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ambadas%20Gote&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20Architect%20%C2%B7%20System%20Builder&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ambadas%20Gote&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20MERN%20Architect%20%E2%80%A2%20System%20Builder&descAlignY=57&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Intern+%40+Fourise+Software+%F0%9F%8F%A2;Building+InternStatus+Platform+%F0%9F%9A%80;Scalable+Systems+%7C+Clean+Architecture+%E2%9A%99%EF%B8%8F;Turning+Complex+Ideas+%E2%86%92+Production+Code+%E2%9A%A1;Open+to+Collaborate+%E2%80%94+Let%27s+Build+Something+Epic!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Intern+%40+Fourise+Software+%F0%9F%8F%A2;Building+InternStatus+Platform+%F0%9F%9A%80;Scalable+Systems+%7C+Clean+Architecture+%E2%9A%99%EF%B8%8F;Turning+Complex+Ideas+%E2%86%92+Production+Code+%E2%9A%A1;Open+to+Collaborate+%E2%80%94+Let%27s+Build+Something+Epic!" />
 
 <br/>
 
@@ -14,53 +14,35 @@
   <img src="https://img.shields.io/github/followers/ambadasgote7?style=for-the-badge&color=0891b2&labelColor=0d1117&label=FOLLOWERS"/>
 </a>
 
-<br/><br/>
-
 </div>
-
----
-
-<div align="center">
-
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
-
-</td>
-<td width="50%" valign="top">
 
 <br/>
 
-### 🚀 What I'm Building
-> **InternStatus** — A full-scale, multi-role internship management platform connecting Students, Faculty, Companies & Admins with secure auth and workflow automation.
-
 ---
 
-### 🌱 Currently Learning
-| | |
-|---|---|
-| 🏗️ | System Design |
-| 🐳 | DevOps & Docker |
-| 📐 | Scalable Architecture |
+## ⚡ About Me
 
----
-
-### ⚡ Fun Facts
-- 🌙 I debug at 2AM and call it a vibe
-- 🔁 My commit messages go from `fix` → `final fix` → `ACTUAL final fix`
-- ☕ Coffee → Code → Ship → Repeat
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340"/>
 
 <br/>
 
-</td>
-</tr>
-</table>
+🏢 &nbsp;**MERN Stack Intern** @ Fourise Software Solutions
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building real-world features that actually ship
 
-</div>
+🚀 &nbsp;**Currently Building** — [InternStatus](https://github.com/ambadasgote7/InternStatus)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multi-role platform for Students · Faculty · Companies · Admins
+
+🌱 &nbsp;**Learning** — System Design · Scalable Architecture · DevOps
+
+💡 &nbsp;**Superpower** — I turn messy requirements into clean, production-ready systems
+
+🎯 &nbsp;**Open to** — MERN collabs, SaaS ideas & backend challenges
+
+🌙 &nbsp;**Fun fact** — My git history: `fix` → `fix2` → `final_fix` → `PLS_WORK`
+
+📬 &nbsp;**Reach me** — [ambadasgote7@gmail.com](mailto:ambadasgote7@gmail.com)
+
+<br clear="right"/>
 
 ---
 
@@ -71,7 +53,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ambadasgote)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambadasgote7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambadasgote7@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ambadasgote7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ambadas_gote_7)
 
 </div>
 
@@ -106,11 +88,10 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -120,103 +101,69 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🏢 InternStatus — Internship Management Platform
 
-<h3 align="center">🏢 InternStatus</h3>
-
-<div align="center">
-<a href="https://github.com/ambadasgote7" target="_blank">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ambadasgote7/InternStatus">
+  <img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-🔨%20In%20Development-orange?style=for-the-badge"/>
+
+<br/><br/>
+
+> A production-grade, multi-role internship platform — built to handle the full lifecycle from application to completion.
+
+| 👥 Roles | 🔐 Auth | 🧰 Stack | 🗄️ Database |
+|:---:|:---:|:---:|:---:|
+| Student · Faculty · Company · Admin | JWT + Role-based Access | MERN | MongoDB |
 
 <br/>
 
-> 🎯 Multi-role Internship Management Platform built for the real world
+---
 
-```yaml
-Roles   : Student · Faculty · Company · Admin
-Auth    : Secure JWT + Role-based Access Control
-Backend : Node.js + Express REST APIs
-DB      : MongoDB with optimized schemas
-Status  : 🔨 Actively Building
-```
+### 💘 DevTinder — Developer Matching Platform
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">💘 DevTinder</h3>
-
-<div align="center">
-<a href="https://github.com/ambadasgote7" target="_blank">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ambadasgote7/DevTinder-Project">
+  <img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
+&nbsp;
+<a href="https://devtinder-project-zz35.onrender.com/login">
+  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-✅%20Live-brightgreen?style=for-the-badge"/>
+
+<br/><br/>
+
+> Swipe. Match. Collaborate. A Tinder-style platform where developers find their perfect coding partner.
+
+| 🔥 Feature | 🔐 Auth | 🧰 Stack | 🗄️ Database |
+|:---:|:---:|:---:|:---:|
+| Swipe-based Dev Discovery | JWT Authentication | MERN | Optimized MongoDB |
 
 <br/>
 
-> 🎯 Swipe-based developer discovery & collaboration platform
+---
 
-```yaml
-Match   : Profile-based Dev Discovery
-Auth    : JWT Authentication
-DB      : Optimized MongoDB Queries
-Stack   : Full MERN
-Status  : ✅ Completed
-```
+### 🌍 TravelMate — Real-time Guide Matching
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌍 TravelMate</h3>
-
-<div align="center">
-<a href="https://github.com/ambadasgote7" target="_blank">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ambadasgote7/TravelMate">
+  <img src="https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</div>
-
-<br/>
-
-> 🎯 Real-time guide matching with role-based dashboards
-
-```yaml
-Feature : Real-time Guide Matching
-Access  : Role-based Dashboards
-Stack   : Firebase + WebSockets
-Status  : ✅ Completed
-```
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔧 What's Next?</h3>
-
-<br/>
-
-> 🎯 Always architecting the next big thing
-
-```yaml
-Focus   : SaaS · APIs · Scalability
-Goal    : Ship. Learn. Iterate.
-Collab  : Open for it 👐
-Vibe    : Build in public 🌐
-```
-
-<div align="center">
-<a href="mailto:ambadasgote7@gmail.com">
-<img src="https://img.shields.io/badge/Let's_Collaborate-00D9FF?style=for-the-badge&logoColor=black"/>
+&nbsp;
+<a href="https://local-guide-b8ada.web.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=firebase&logoColor=white"/>
 </a>
-</div>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-✅%20Live-brightgreen?style=for-the-badge"/>
 
-</td>
-</tr>
-</table>
+<br/><br/>
+
+> Connect travellers with local guides in real-time — featuring role-based dashboards for a seamless experience.
+
+| 🗺️ Feature | 🔐 Access | 🧰 Stack | ☁️ Hosting |
+|:---:|:---:|:---:|:---:|
+| Real-time Guide Matching | Role-based Dashboards | Firebase + WebSockets | Firebase |
 
 </div>
 
@@ -241,17 +188,34 @@ Vibe    : Build in public 🌐
 
 ---
 
-## ⚡ Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
-| Skill | Progress |
-|---|---|
-| 🟦 MERN Development | `██████████████████░░` 90% |
-| 🟦 System Design | `████████████████░░░░` 80% |
-| 🟦 REST API Design | `█████████████████░░░` 85% |
-| 🟦 DevOps & Docker | `████████████░░░░░░░░` 60% |
-| 🟦 Open Source | `██████████░░░░░░░░░░` 50% 🌱 |
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
+<b>MongoDB</b><br/>
+<sub>Advanced Schemas & Indexing</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+<b>Node.js</b><br/>
+<sub>Scalable API Design</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+<b>React</b><br/>
+<sub>State Management & Performance</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>
+<b>System Design</b><br/>
+<sub>Architecture & Scalability</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -263,13 +227,13 @@ Vibe    : Build in public 🌐
 
 `MERN Stack` &nbsp;·&nbsp; `REST APIs` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `JWT Auth` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `Backend Architecture`
 
----
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ⭐️ From **[Ambadas Gote](https://github.com/ambadasgote7)** — built with 💻 passion & ☕ coffee
 
