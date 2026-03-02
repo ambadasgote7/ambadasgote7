@@ -23,27 +23,44 @@
 
 ## ⚡ About Me
 
-<img align="right" width="340" src="https://images.unsplash.com/photo-1599837487527-e009248aa71b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="border-radius:12px"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 <br/>
 
-🎓 &nbsp;**Computer Science Student** — Graduating **2026**
+🎓 &nbsp;**`Computer Science Student`** &nbsp;— Graduating **2026**
 
-&nbsp;
+<br/>
 
-| | |
-|---|---|
-| 💻 | Passionate about **building software** & learning new technologies |
-| 🚀 | Interested in **backend development** & scalable systems |
-| 🧠 | Curious how things work **under the hood** |
-| 🎮 | Gamer — **Free Fire** & competitive games |
-| ⚡ | `Learn` → `Build` → `Improve` → `Repeat` |
+```yaml
+💻  Passionate about building software
+    & learning new technologies
 
-&nbsp;
+🚀  Interested in backend development
+    & scalable systems
 
-> 📬 &nbsp;**ambadasgote7@gmail.com** &nbsp;·&nbsp; *Response < 24h*
+🧠  Curious how things work
+    under the hood
 
-<br clear="right"/>
+🎮  Gamer — Free Fire
+    & competitive games
+
+⚡  Learn → Build → Improve → Repeat
+```
+
+<br/>
+
+📬 &nbsp;**ambadasgote7@gmail.com** &nbsp;·&nbsp; *Response < 24h*
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://images.unsplash.com/photo-1599837487527-e009248aa71b?q=80&w=687&auto=format&fit=crop" width="320" style="border-radius:16px; border: 2px solid #00F5FF; box-shadow: 0 0 20px #00F5FF55;"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
