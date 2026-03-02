@@ -23,7 +23,7 @@
 
 ## ⚡ About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
+<img align="right" width="340" src="https://images.unsplash.com/photo-1599837487527-e009248aa71b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="border-radius:12px"/>
 
 <br/>
 
