@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00D4FF&height=240&section=header&text=AMBADAS%20GOTE&fontSize=48&fontColor=00D4FF&animation=fadeIn&fontAlignY=40&desc=Developer%20💻%20%7C%20Gamer%20🎮%20%7C%20System%20Builder&descSize=16&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00D4FF&height=220&section=header&text=AMBADAS%20GOTE&fontSize=46&fontColor=00D4FF&animation=fadeIn&fontAlignY=40&desc=Developer%20💻%20%7C%20Gamer%20🎮%20%7C%20System%20Builder&descSize=16&descAlignY=65"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+Real+Projects;Backend+%7C+MERN+Stack;Gaming+%2B+Coding+Life;Always+Learning+Something+New" />
 
@@ -23,21 +23,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=140&section=header&text=Developer%20💻%20+%20Gamer%20🎮&fontSize=26&fontColor=00D4FF&animation=fadeIn&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=120&section=header&text=Developer%20💻%20+%20Gamer%20🎮&fontSize=26&fontColor=00D4FF&animation=fadeIn&fontAlignY=55"/>
 
-</div>
-
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<br>
 
 ✨ Building useful software
-🧠 Curious about how systems work
+🧠 Curious how systems work internally
 🚀 Backend & scalable platforms
 🎮 Gaming — Free Fire & competitive games
 ⚡ Learn → Build → Improve → Repeat
 
-<br clear="right"/>
+<br>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
+
+<br><br>
 
 ![Backend](https://img.shields.io/badge/Focus-Backend%20Engineering-00D4FF?style=for-the-badge)
 ![System](https://img.shields.io/badge/Interest-System%20Design-00D4FF?style=for-the-badge)
@@ -63,7 +63,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70"/>
 
@@ -71,10 +71,11 @@
 
 Multi-role internship platform
 
-[![Repo](https://img.shields.io/badge/Source-00D4FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/ambadasgote7/InternStatus)
+[![Source](https://img.shields.io/badge/Source-00D4FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/ambadasgote7/InternStatus)
 
 </td>
-<td width="33%" align="center">
+
+<td align="center" width="33%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="70"/>
 
@@ -82,11 +83,12 @@ Multi-role internship platform
 
 Developer matching platform
 
-[![Repo](https://img.shields.io/badge/Source-00D4FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/ambadasgote7/DevTinder-Project)
+[![Source](https://img.shields.io/badge/Source-00D4FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/ambadasgote7/DevTinder-Project)
 [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge)](https://devtinder-project-zz35.onrender.com/login)
 
 </td>
-<td width="33%" align="center">
+
+<td align="center" width="33%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="70"/>
 
@@ -94,7 +96,7 @@ Developer matching platform
 
 Real-time guide platform
 
-[![Repo](https://img.shields.io/badge/Source-00D4FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/ambadasgote7/TravelMate)
+[![Source](https://img.shields.io/badge/Source-00D4FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/ambadasgote7/TravelMate)
 [![Live](https://img.shields.io/badge/Live-00C853?style=for-the-badge)](https://local-guide-b8ada.web.app/)
 
 </td>
@@ -121,9 +123,9 @@ Real-time guide platform
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="380"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="340"/>
 
-### 💬 *Code. Play. Build. Repeat.*
+### 💬 Code. Play. Build. Repeat.
 
 <br>
 
