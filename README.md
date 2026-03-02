@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi 👋, I'm Ambadas Gote<br><br>💻 Full Stack Developer | MERN Stack | Backend Focused Engineer<br>🚀 Building scalable platforms & real-world software systems<br><br>---<br><br>## 🚀 About Me<br><br>🔭 I’m currently working on<br><br>* MERN Stack Internship at Fourise Software Solutions<br>* **InternStatus** — Internship Management Platform (Student • Faculty • Company • Admin)<br><br>👯 I’m looking to collaborate on<br><br>* Full-stack MERN projects<br>* SaaS platforms<br>* Role-based workflow systems<br><br>🤝 I’m looking for help with<br><br>* System Design<br>* DevOps & Cloud Deployment<br>* Scalable Architecture<br><br>🌱 I’m currently learning<br><br>* Advanced Backend Engineering<br>* Performance Optimization<br>* Distributed Systems<br><br>💬 Ask me about<br><br>* MERN Stack<br>* REST API Design<br>* Authentication & Authorization (JWT)<br>* MongoDB Optimization<br>* Full-Stack Architecture<br><br>⚡ Fun fact<br>I enjoy designing complex systems from scratch and turning ideas into production-ready software.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Languages<br><br>Java • JavaScript • SQL<br><br>### Frontend<br><br>React.js • HTML • CSS<br><br>### Backend<br><br>Node.js • Express.js<br><br>### Databases<br><br>MongoDB • MySQL<br><br>### Tools<br><br>Git • Postman • VS Code<br><br>---<br><br>## 📊 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambadasgote7\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambadasgote7\&layout=compact\&theme=tokyonight)<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=ambadasgote7\&theme=tokyonight)<br><br>---<br><br>## 📌 Featured Projects<br><br>### 🚀 InternStatus<br><br>Multi-role internship management platform with secure authentication and workflow automation.<br>Tech: MERN Stack<br><br>### 💡 DevTinder<br><br>Developer matching platform with JWT authentication and optimized MongoDB queries.<br><br>### 🌍 TravelMate<br><br>Real-time guide matching system with role-based dashboards and Firebase integration.<br><br>---<br><br>## 📫 Connect With Me<br><br>📧 Email: **[ambadasgote7@gmail.com](mailto:ambadasgote7@gmail.com)**<br>🔗 LinkedIn: https://linkedin.com/in/ambadasgote<br>💻 GitHub: https://github.com/ambadasgote7<br><br>---<br><br>⭐️ From Ambadas Gote<br>
 
-<!--
-**ambadasgote7/ambadasgote7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@AG06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ambadasgote/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ambadas Gote) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ambadasgote7@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ambadasgote7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ambadasgote7&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambadasgote7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ambadasgote7&icon=2&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
