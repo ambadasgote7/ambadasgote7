@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,20,24,30&height=240&section=header&text=Ambadas%20Gote&fontSize=70&fontColor=00F5FF&animation=twinkling&fontAlignY=42&desc=%F0%9F%91%8B%20MERN%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Backend%20Enthusiast&descSize=14&descAlignY=65&descColor=FF6B00&stroke=00F5FF&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,20,24,30&height=240&section=header&text=%F0%9F%91%8B%20Hey%2C%20I%27m%20Ambadas%20Gote&fontSize=52&fontColor=00F5FF&animation=twinkling&fontAlignY=42&desc=MERN%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Backend%20Enthusiast&descSize=14&descAlignY=65&descColor=FF6B00&stroke=00F5FF&strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 ## ⚡ About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
 
 <br/>
 
