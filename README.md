@@ -23,41 +23,43 @@
 
 ## ⚡ About Me
 
+<table width="100%">
+<tr>
+<td width="50%" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://images.unsplash.com/photo-1599837487527-e009248aa71b?q=80&w=687&auto=format&fit=crop"/>
+  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=870&auto=format&fit=crop" width="100%" style="border-radius: 50%; max-width: 280px; display: block; margin: auto; border: 3px solid #00F5FF;"/>
+</picture>
+
 <div align="center">
-
-<img src="https://images.unsplash.com/photo-1599837487527-e009248aa71b?q=80&w=687&auto=format&fit=crop" width="220" height="220" style="border-radius:50%; border: 3px solid #00F5FF; box-shadow: 0 0 25px #00F5FF88; object-fit:cover;"/>
-
+<img src="https://images.unsplash.com/photo-1599837487527-e009248aa71b?q=80&w=500&auto=format&fit=crop" width="260" style="border-radius:50%; border: 3px solid #00F5FF; box-shadow: 0 0 30px #00F5FF66;"/>
 </div>
+
+</td>
+<td width="50%" valign="middle">
+
+<h3>🎓 &nbsp;CS Student &nbsp;·&nbsp; Class of 2026</h3>
 
 <br/>
 
-<div align="center">
+&nbsp;💻 &nbsp;Passionate about **building software** & learning new tech
 
-🎓 &nbsp;**`Computer Science Student — Graduating 2026`**
+&nbsp;🚀 &nbsp;Into **backend development** & scalable systems
 
-</div>
+&nbsp;🧠 &nbsp;Curious how things work **under the hood**
 
-<br/>
+&nbsp;🎮 &nbsp;Gamer — **Free Fire** & competitive games
 
-```yaml
-💻  Passionate about building software & learning new technologies
-
-🚀  Interested in backend development & scalable systems
-
-🧠  Curious how things work under the hood
-
-🎮  Gamer — Free Fire & competitive games
-
-⚡  Learn → Build → Improve → Repeat
-```
+&nbsp;⚡ &nbsp;`Learn` → `Build` → `Improve` → `Repeat`
 
 <br/>
 
-<div align="center">
+&nbsp;📬 &nbsp;**ambadasgote7@gmail.com** · *< 24h response*
 
-📬 &nbsp;**ambadasgote7@gmail.com** &nbsp;·&nbsp; *Response < 24h*
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,7 +104,7 @@
 | 🛡️ InternStatus | 💘 DevTinder | 🗺️ TravelMate |
 |:---:|:---:|:---:|
 | ![WIP](https://img.shields.io/badge/IN%20PROGRESS-FF6B00?style=flat-square) | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square) | ![Live](https://img.shields.io/badge/LIVE-00C853?style=flat-square) |
-| The internship OS colleges need. 4-role MERN platform with JWT RBAC, status pipelines & full audit trails. | Swipe right on your next co-founder. Dev matchmaking platform with JWT auth & intelligent MongoDB match logic. | Real-time local guide finder. Firebase + WebSocket with dual dashboards for guides & travellers. |
+| The internship OS colleges need. 4-role MERN platform with JWT RBAC, status pipelines & full audit trails. | Swipe right on your next co-founder. Dev matchmaking with JWT auth & MongoDB match logic. | Real-time local guide finder. Firebase + WebSocket with dual dashboards for guides & travellers. |
 | [![Repo](https://img.shields.io/badge/Source-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/ambadasgote7/InternStatus) | [![Repo](https://img.shields.io/badge/Source-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/ambadasgote7/DevTinder-Project) [![Demo](https://img.shields.io/badge/Demo-0A0A0A?style=flat-square&logo=render&logoColor=00C853)](https://devtinder-project-zz35.onrender.com/login) | [![Repo](https://img.shields.io/badge/Source-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/ambadasgote7/TravelMate) [![Demo](https://img.shields.io/badge/Demo-0A0A0A?style=flat-square&logo=firebase&logoColor=FFCA28)](https://local-guide-b8ada.web.app/) |
 
 </div>
@@ -117,7 +119,8 @@
 
 <br/>
 
-<img width="96%" src="https://streak-stats.demolab.com?user=ambadasgote7&theme=transparent&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B00&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=556070&sideNums=FF6B00&currStreakNum=00D4FF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ambadasgote7&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=FF6B00&text_color=C9D1D9" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=ambadasgote7&theme=transparent&hide_border=true&stroke=00D4FF&ring=00F5FF&fire=FF6B00&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=556070&sideNums=FF6B00&currStreakNum=00F5FF" width="48%"/>
 
 </div>
 
